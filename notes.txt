@@ -1,0 +1,6 @@
+rosnode list: shows running nodes
+rostopic list: shows running topics
+rostopic info /topic_name: shows type, publishers and subscribers
+rostopic echo /topic_name: shows message sent through the topic
+rosnode kill /node_name: stops the  node
+

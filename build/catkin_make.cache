@@ -1,0 +1,2 @@
+tutorial_cpp:tutorial_python
+-DCATKIN_DEVEL_PREFIX=/home/moajouz/ros1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/moajouz/ros1_ws/install -G Unix Makefiles

@@ -1,0 +1,4 @@
+<launch>
+    <node name="add_server" pkg="tutorial_python" type="client.py" output="screen"/>
+    <node name="talker" pkg="tutorial_python" type="server.py" output="screen"/>
+</launch>
